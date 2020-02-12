@@ -38,6 +38,23 @@
 					"rsvp": false
 				}
 			]
+		},
+		{
+			"user": "Test User 3",
+			"option": [
+				{
+					"option": 1,
+					"rsvp": false
+				},
+				{
+					"option": 2,
+					"rsvp": true
+				},
+				{
+					"option": 3,
+					"rsvp": true
+				}
+			]
 		}
 	]
 }
