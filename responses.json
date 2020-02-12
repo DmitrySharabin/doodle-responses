@@ -6,18 +6,46 @@
 	],
 	"response": [
 		{
-			"user": "Test User 1"
+			"user": "Test User 1",
+			"option": [
+				{
+					"option": 1,
+					"rsvp": true
+				},
+				{
+					"option": 2,
+					"rsvp": false
+				},
+				{
+					"option": 3,
+					"rsvp": false
+				}
+			]
 		},
 		{
-			"user": "Test User 2"
+			"user": "Test User 2",
+			"option": [
+				{
+					"option": 1,
+					"rsvp": false
+				},
+				{
+					"option": 2,
+					"rsvp": true
+				},
+				{
+					"option": 3,
+					"rsvp": false
+				}
+			]
 		}
 	],
 	"answers": [
-		false,
 		true,
 		false,
-		true,
 		false,
+		false,
+		true,
 		false
 	]
 }
