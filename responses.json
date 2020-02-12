@@ -1,5 +1,23 @@
 {
-	"choice": [],
-	"response": [],
-	"answers": []
+	"choice": [
+		"First",
+		"Second",
+		"Third"
+	],
+	"response": [
+		{
+			"user": "Test User 1"
+		},
+		{
+			"user": "Test User 2"
+		}
+	],
+	"answers": [
+		false,
+		true,
+		false,
+		true,
+		false,
+		false
+	]
 }
